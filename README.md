@@ -5,6 +5,7 @@
 Este projeto foi desenvolvido com o objetivo de praticar os conceitos de **Programação Orientada a Objetos (POO)** em Java, utilizando a IDE Eclipse.
 
 A proposta consiste na modelagem de um objeto do mundo real — uma **Jaqueta com Zíper** — aplicando atributos, métodos e comportamentos dentro de uma estrutura organizada em packages.
+(zipado por ser um projeto pequeno e alguns problemas no meu CMD)
 
 ###########################
 
